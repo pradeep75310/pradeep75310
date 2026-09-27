@@ -163,11 +163,12 @@ A full-stack hospital management platform designed to manage hospital operations
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=pradeep75310&theme=github-compact&hide_border=true&area=true"
-    alt="Pradeep Yadav Contribution Activity"
-  />
+
+[![Pradeep's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pradeep75310)](https://github.com/pradeep75310)
+
 </p>
+
+---
 ## 🏆 GitHub Achievements
 
 <p align="center">
