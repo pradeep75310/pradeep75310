@@ -143,14 +143,7 @@ A full-stack hospital management platform designed to manage hospital operations
 
 ---
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pradeep75310&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=Pradeep's%20GitHub%20Stats" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep75310&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
-</p>
-
----
 
 ## 🔥 Contribution Streak
 
@@ -160,21 +153,7 @@ A full-stack hospital management platform designed to manage hospital operations
 
 ---
 
-## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pradeep75310&hide_border=true&area=true&custom_title=Pradeep's%20Contribution%20Graph" alt="Contribution Activity Graph"/>
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pradeep75310&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
-</p>
-
----
 
 ## 📌 GitHub Contribution Calendar
 
